@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nj-projects
 - 👀 I’m interested in ...Frontend Development
 - 🌱 I’m currently learning ... React JS
-- 💞️ I’m looking to forward collaborate on ... Frontend projects
+- 💞️ I’m looking forward to collaborate on ... Frontend projects
 - 📫 How to reach me ... meetnileshjadhav@gmail.com
 
 <!---
