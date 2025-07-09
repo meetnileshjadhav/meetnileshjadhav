@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @nj-projects
-- 👀 I’m interested in ...Frontend Development
-- 🌱 I’m currently learning ... React JS
-- 💞️ I’m looking forward to collaborate on ... Frontend projects
-- 📫 How to reach me ... meetnileshjadhav@gmail.com
+- 👀 I’m interested in ...MERN Fullstack
+- 🌱 I’m currently learning ... System Designs
+- 💞️ I’m looking forward to collaborate on ... Fullstack projects
+- 📫 How to reach me ... niileshjadhav09@gmail.com
 
 <!---
 meetnileshjadhav/meetnileshjadhav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
